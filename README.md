@@ -1,6 +1,6 @@
 # Chibi Cards
 
-Sticking with tradition and going for the early days of electronics with this kit; using the traditional 555 Timer IC and a decade counter to make a strobing star pattern, something to put on-top of the christmas tree. Get some more globes and some logic gates if you're really up for it.				
+Surprise your friends and family with these creative Christmas cards! Use the LED starter kit from Chibitronics to provide a small circuit so you can entertain the young and old alike with a thoughtful Christmas greeting. Perfect with kids. Makes 6 cards.	
 
 ## Bill of Materials
 
